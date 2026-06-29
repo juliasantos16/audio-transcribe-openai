@@ -13,13 +13,9 @@ Permite transformar fala em texto a partir de diferentes fontes:
 - 🎧 Arquivos de áudio (.mp3)  
 - 🎬 Vídeos (.mp4)
 
----
-
 ##  Stack
 
 Python · Streamlit · OpenAI Whisper API · PyDub · MoviePy · WebRTC
-
----
 
 ##  Como executar
 
