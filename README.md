@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Whisper-black)
-![Status](https://img.shields.io/badge/Status-Active-green)
 
 Aplicação web para transcrição de áudio utilizando a API Whisper da OpenAI.
 
