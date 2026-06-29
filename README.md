@@ -22,6 +22,7 @@ Python · Streamlit · OpenAI Whisper API · PyDub · MoviePy · WebRTC
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## ⚠️ dependência externa
 
