@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Arquivo com chaves da API
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Configurações do VS Code
+.vscode/
+
+temp/
+
+ffmpeg.exe
