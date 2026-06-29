@@ -1,4 +1,4 @@
-# 🎙️ EchoAI – Transcrição de Áudio com Whisper
+#### 🎙️ EchoAI – Transcrição de Áudio com Whisper
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -13,18 +13,18 @@ Permite transformar fala em texto a partir de diferentes fontes:
 - 🎧 Arquivos de áudio (.mp3)  
 - 🎬 Vídeos (.mp4)
 
-##  Stack
+####  Stack
 
 Python · Streamlit · OpenAI Whisper API · PyDub · MoviePy · WebRTC
 
-##  Como executar
+####  Como executar
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## ⚠️
+##### ⚠️
 
 Este projeto utiliza o **FFmpeg.exe** para processamento de áudio e extração de trilhas de vídeo.
 
