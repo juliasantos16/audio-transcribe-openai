@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## ⚠️ dependência externa
+## ⚠️
 
 Este projeto utiliza o **FFmpeg.exe** para processamento de áudio e extração de trilhas de vídeo.
 
