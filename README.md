@@ -17,4 +17,4 @@ Este projeto utiliza o **FFmpeg.exe** para processamento de áudio e extração 
 no Linux: geralmente já vem instalado no sistema.
 no Windows / macOS: é necessário que vc faça a instalação manualmente.
 
-Após o download, é preciso adicionar o executável ffmpeg.exe na pasta do projeto ou no PATH do sistema.
+Após o download, é preciso adicionar o executável ffmpeg.exe na pasta do projeto.
