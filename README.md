@@ -22,3 +22,12 @@ Python · Streamlit · OpenAI Whisper API · PyDub · MoviePy · WebRTC
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## ⚠️ dependência externa
+
+Este projeto utiliza o **FFmpeg.exe** para processamento de áudio e extração de trilhas de vídeo.
+
+- 🐧 Linux: já vem instalado  
+- 🪟 Windows / 🍎 macOS: é necessário download manual
+
+Depois de fazer o download, adicione o `ffmpeg.exe` à pasta do projeto.
