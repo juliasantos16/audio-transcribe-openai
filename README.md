@@ -12,9 +12,9 @@ streamlit run app.py
 
 **⚠️ Dependência externa (FFmpeg)**
 
-Este projeto utiliza o FFmpeg para processamento de áudio e extração de trilhas de vídeo.
+Este projeto utiliza o **FFmpeg.exe** para processamento de áudio e extração de trilhas de vídeo.
 
-Linux: geralmente já instalado no sistema
-Windows / macOS: é necessário instalar manualmente
+no Linux: geralmente já vem instalado no sistema.
+no Windows / macOS: é necessário que vc faça a instalação manualmente.
 
-Após o download, adicione o executável ffmpeg.exe na pasta do projeto ou no PATH do sistema.
+Após o download, é preciso adicionar o executável ffmpeg.exe na pasta do projeto ou no PATH do sistema.
